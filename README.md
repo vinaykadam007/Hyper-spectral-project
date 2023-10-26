@@ -1,7 +1,7 @@
 # Project Title: Hyper-spectral Image Segmentation of Head and Neck Squamous Cell Carcinoma (2022)
 
 ## Project Description:
-In this project, we developed a cutting-edge machine learning model employing Wavelet Convolutional Neural Networks (CNN) to address the challenging task of segmenting Hyper-spectral Images associated with Head and Neck Squamous Cell Carcinoma. The primary objectives of our endeavor were to enhance the accuracy of medical image analysis and contribute to the advancement of cancer diagnosis and treatment.
+In this project, we developed a cutting-edge machine learning model employing Wavelet Convolutional Neural Networks (CNN) to address the challenging task of segmenting Hyper-spectral Images associated with Head and Neck Squamous Cell Carcinoma. The primary objectives of our endeavor were to enhance the accuracy of medical image analysis and contribute to the detection of cancer from hyperspectral images.
 
 Our comprehensive approach encompassed several key components:
 
