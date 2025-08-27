@@ -20,7 +20,7 @@ We designed and implemented a **Wavelet Convolutional Neural Network (Wavelet CN
   To develop a deep learning pipeline capable of segmenting hyperspectral surgical specimen images of HNSCC, enabling accurate tumor margin detection for clinical use.  
 
 - **Outcome:**  
-  - Implemented a **Wavelet CNN** trained on **7,000+ hyperspectral patches** from 100+ patients.  
+  - Implemented a **Wavelet CNN** trained on **7,000+ hyperspectral images** from 100+ patients.  
   - Optimized **memory management and preprocessing pipelines** for HPC deployment.  
   - Achieved **0.74 IoU** on unseen test data across **three segmentation classes (tumor, normal, tumor-involved)**.  
   - Demonstrated a scalable approach with potential to aid **real-time intraoperative margin detection**.  
