@@ -56,44 +56,6 @@ We designed and implemented a **Wavelet Convolutional Neural Network (Wavelet CN
 
 ---
 
-## 📂 Repository Structure  
-
-```
-Hyper-spectral-project/
-│── data/                 # Sample datasets or links
-│── notebooks/            # Jupyter notebooks for preprocessing & training
-│── src/                  # Core training scripts and Wavelet CNN model
-│── results/              # Outputs, visualizations, IoU metrics
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-```
-
----
-
-## 🚀 Getting Started  
-
-### Prerequisites  
-- Python 3.8+  
-- PyTorch / TensorFlow (depending on implementation)  
-- NumPy, OpenCV, Matplotlib  
-
-Install dependencies:  
-```bash
-pip install -r requirements.txt
-```
-
-### Run Training  
-```bash
-python src/train.py --config configs/hsi_config.yaml
-```
-
-### Run Inference  
-```bash
-python src/inference.py --image_path sample_data/hsi_sample.png
-```
-
----
-
 ## 📌 Future Work  
 
 - Expand dataset to include more surgical specimens for better generalization.  
