@@ -22,7 +22,7 @@ We designed and implemented a **Wavelet Convolutional Neural Network (Wavelet CN
 - **Outcome:**  
   - Implemented a **Wavelet CNN** trained on **7,000+ hyperspectral images** from 100+ patients.  
   - Optimized **memory management and preprocessing pipelines** for HPC deployment.  
-  - Achieved **0.74 IoU** on unseen test data across **three segmentation classes (tumor, normal, tumor-involved)**.  
+  - Achieved **0.74 IoU** on unseen test data across **three segmentation classes (tumor, normal, background)**.  
   - Demonstrated a scalable approach with potential to aid **real-time intraoperative margin detection**.  
 
 ---
