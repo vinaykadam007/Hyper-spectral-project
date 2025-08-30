@@ -30,8 +30,7 @@ We designed and implemented a **Wavelet Convolutional Neural Network (Wavelet CN
 ## ⚙️ Methodology  
 
 - **Data Source:** Hyperspectral imaging data of HNSCC surgical specimens, collected at Emory University Hospital.  
-- **Preprocessing:**  
-  - Data split into tumor (T), normal (N), and tumor-involved (TN) samples.  
+- **Preprocessing:**    
   - Image patches extracted (24×24×91 spectral bands).  
   - Standardization + spectral band normalization.  
 
