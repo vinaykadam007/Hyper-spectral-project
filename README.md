@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview  
 
-![Project](https://drive.google.com/uc?export=view&id=1ok0P6yjInSz_fkgs1IpywvMgV2WlPFkB)
+![Project](https://drive.google.com/uc?export=view&id=1SQRjCQ_7sv6NOq8FN4l8tBPKdOHvGElB)
 
 This project focuses on **segmentation of hyperspectral images (HSI)** of **head and neck squamous cell carcinoma (HNSCC)** surgical specimens. Accurate cancer margin detection during surgery is critical to ensure complete tumor removal and improve patient outcomes.  
 
