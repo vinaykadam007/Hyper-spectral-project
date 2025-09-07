@@ -56,7 +56,7 @@ We designed and implemented a **Wavelet Convolutional Neural Network (Wavelet CN
 
 **Key Insight:** Preserving all **91 spectral bands** leads to better feature extraction and segmentation accuracy compared to dimensionality reduction.  
 
-**Note:** Segmentation images are restricted and not available for public display, in accordance with policies of the Quantitative Bioimaging Lab (QBIL).
+**Note:** Segmentation images are restricted and not available for public display, in accordance with the policies of the Quantitative Bioimaging Lab (QBIL). These restrictions are in place due to research data privacy and ethical guidelines, as the images originate from specialized biomedical datasets that require controlled access.
 
 ---
 
