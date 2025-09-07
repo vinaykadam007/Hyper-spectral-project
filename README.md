@@ -8,6 +8,9 @@
 ---
 
 ## 📌 Project Overview  
+
+![Project](https://drive.google.com/uc?export=view&id=1ok0P6yjInSz_fkgs1IpywvMgV2WlPFkB)
+
 This project focuses on **segmentation of hyperspectral images (HSI)** of **head and neck squamous cell carcinoma (HNSCC)** surgical specimens. Accurate cancer margin detection during surgery is critical to ensure complete tumor removal and improve patient outcomes.  
 
 We designed and implemented a **Wavelet Convolutional Neural Network (Wavelet CNN)**, trained on **hyperspectral imaging data from 100+ patient surgical specimens**, leveraging both **spectral** and **spatial features**. The model was deployed and trained on an **HPC cluster** to handle large-scale, memory-intensive datasets.  
